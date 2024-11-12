@@ -88,7 +88,7 @@ nav {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 100px;
+    margin: 6.25rem;
 }
 
 .cardContact{
@@ -105,7 +105,11 @@ footer{
   left:0px;
    bottom:0px;
   width: 100%;
-  height: 40px;
+  height: 20px;
+}
+
+.letter_footer{
+    font-size: x-small;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 1000px){

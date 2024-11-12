@@ -36,7 +36,7 @@ const Curriculum = () => {
                         <div className="col-xxl-7">
                             <div className="d-flex justify-content-center mt-5 mt-xxl-0">
                                 <div className="profile bg-gradient-primary-to-secondary">
-                                    <img className="personaje" src="src/assets/img/avatarLibro.png" alt="avatarLibro" />
+                                    <img className="personaje" src="public/assets/img/avatarLibro.png" alt="avatarLibro" />
                                 </div>
                             </div>
                         </div>

@@ -14,7 +14,7 @@ const Contacto = () => {
     return (
         <div className='contactos'>
             <Card className='cardContact' >
-                <Card.Img variant="top" src="src/assets/img/git.jpg" />
+                <Card.Img variant="top" src="public/assets/img/git.jpg" />
                 <Card.Body className='card_body'>
                     <Card.Title>Git Hub</Card.Title>
                     <a href="https://github.com/LindaLobo" className="btn btn-primary" target="_blank">CONECTAR</a>
@@ -22,7 +22,7 @@ const Contacto = () => {
             </Card>
 
             <Card className='cardContact' >
-                <Card.Img variant="top" src="src/assets/img/linkedin.png" />
+                <Card.Img variant="top" src="public/assets/img/linkedin.png" />
                 <Card.Body  className='card_body'>
                     <Card.Title>LinkedIn</Card.Title>
                     <a href="https://www.linkedin.com/in/linda-aguilar-lobo/" className="btn btn-primary" target="_blank">CONECTAR</a>
@@ -30,7 +30,7 @@ const Contacto = () => {
             </Card>
 
             <Card className='cardContact' >
-                <Card.Img variant="top" src="src/assets/img/email.jpg" />
+                <Card.Img variant="top" src="public/assets/img/email.jpg" />
                 <Card.Body  className='card_body'>
                     <Card.Title>Email</Card.Title>
                     {/* <a href="mailto:lindalobo.aguilar@gmail.com" className="btn btn-primary mb-2" target="_blank">CONECTAR</a> */}
