@@ -50,7 +50,7 @@ nav {
 }
 
 .pizarra {
-    background-image: url("./assets/img/fondo.png");
+    background-image: url("/public/img/fondo.png");
     background-color: #97D9E1;
     width: 100%;
     min-height: 1000px;

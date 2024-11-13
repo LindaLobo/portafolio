@@ -18,7 +18,7 @@ const Inicio = () => {
                 <div className="col">
                     <div className="d-flex justify-content-center mt-5 mt-xxl-0">
                         <div className="profile bg-gradient-primary-to-secondary">
-                            <img className="avatar" src="/public/assets/img/avatarSalduo.png" alt="avatar" />
+                            <img className="avatar" src="/img/avatarSalduo.png" alt="avatar" />
                         </div>
                     </div>
                 </div>
